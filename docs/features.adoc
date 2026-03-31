@@ -5,7 +5,7 @@
 <Korrigiert die Anzeige von Feature 1, sodass sie auch auf mobilen Geräten korrekt dargestellt wird.>
 
 == Feature 1
-<insert_feature_here>
+<Dieses Feature fügt eine neue Anzeige für Benutzerstatistiken hinzu.>
 
 == Feature 2
 <insert_feature_here>
