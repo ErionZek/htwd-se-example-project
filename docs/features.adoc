@@ -2,7 +2,7 @@
 <Erion Zeksylaj> <erion.zeksylaj2@stud.htw-dresden.de>
 
 == Beschreibung
-<insert_bugfix_here>
+<Korrigiert die Anzeige von Feature 1, sodass sie auch auf mobilen Geräten korrekt dargestellt wird.>
 
 == Feature 1
 <insert_feature_here>
